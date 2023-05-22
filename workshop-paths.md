@@ -5,5 +5,3 @@ Interested in creating a pathed experience where you can build up your audience'
 ## ML Zero to Hero
 
 ## Web Zero to Hero
-
-## Data Zero to Hero
